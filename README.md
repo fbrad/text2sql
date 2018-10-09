@@ -44,7 +44,9 @@ Contents:
         ]
     }
 ```
+
 Acknowledgements
+----------------
 This work has been funded by the Text2NeuralQL research project (PN-III-P2-2.1-PTE-2016-0109).
 
 License
